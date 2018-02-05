@@ -1,0 +1,2 @@
+# NU-Techfest-App
+Android app for cultural fest of National Institute Of Technology, Rourkela. Includes information required for various events going on throughout the cultural fest , Navigation to various places within the institute, updates of event occurrences, Registration link to the official website of NITRUTSAV. Contains details regarding all competitions, workshops, exhibitions, fun events, proshows going on during the fest. Essentially required to find directions through the institute premises.
